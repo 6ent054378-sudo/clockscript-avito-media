@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
-
+<Ad>
+  <Id>8479e78cb2d94843</Id>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>москва</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Title>Часы Orient</Title>
+  <Description><![CDATA[<p>аааа</p>]]></Description>
+  <Price>22000</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/4cc6c7e47e5c40bd.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/b139cbbd05a54aa0.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cb3034a250cf4cd8.webp"/></Images>
+</Ad>
 </Ads>
