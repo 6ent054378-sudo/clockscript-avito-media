@@ -8,6 +8,14 @@
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
   <AdType>Товар приобретен на продажу</AdType>
+  <ProductType>Наручные или карманные</ProductType>
+  <ProductSubType>Наручные часы</ProductSubType>
+  <Gender>Унисекс</Gender>
+  <Mechanism>Кварцевые</Mechanism>
+  <StrapType>Другой</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
+  <Brand>Orient</Brand>
   <Title>Часы Orient</Title>
   <Description><![CDATA[<p>аааа</p>]]></Description>
   <Price>22000</Price>
