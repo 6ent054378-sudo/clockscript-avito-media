@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
 <Ad>
+  <Id>d289e37c52884bc6</Id>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Orient</Brand>
+  <Title>Часы Orient Diver 200 m</Title>
+  <Description><![CDATA[<p>⌚ Orient Diver 200 m, артикул BK-0462. Наручные часы с контрастным безелем, светлыми метками на циферблате и окошком даты.</p><p>Особенности модели:<br/>✅ Коричневый циферблат<br/>✅ Чёрный безель с контрастной шкалой<br/>✅ Окошко даты<br/>✅ Тёмный ремешок</p><p>Если хотите узнать подробнее о часах, напишите в чат Авито. Отвечу на вопросы.</p>]]></Description>
+  <Price>45700</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/5a82440875944515.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/9f046965df484cc8.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/e7fd65e5513d4aa4.webp"/></Images>
+</Ad>
+<Ad>
   <Id>8479e78cb2d94843</Id>
   <ListingFee>Package</ListingFee>
   <AdStatus>Free</AdStatus>
@@ -8,13 +23,6 @@
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
   <AdType>Товар приобретен на продажу</AdType>
-  <ProductType>Наручные или карманные</ProductType>
-  <ProductSubType>Наручные часы</ProductSubType>
-  <Gender>Унисекс</Gender>
-  <Mechanism>Кварцевые</Mechanism>
-  <StrapType>Другой</StrapType>
-  <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
   <Brand>Orient</Brand>
   <Title>Часы Orient</Title>
   <Description><![CDATA[<p>аааа</p>]]></Description>
