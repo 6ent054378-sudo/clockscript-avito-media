@@ -1,27 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
 <Ad>
-  <Id>a4487ef4e5754f7e</Id>
+  <Id>36d11d7c072b4585</Id>
   <DateBegin>2026-11-24T08:00:00+03:00</DateBegin>
   <ListingFee>Package</ListingFee>
   <AdStatus>Free</AdStatus>
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
-  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <Gender>Унисекс</Gender>
-  <Mechanism>Кварцевые</Mechanism>
-  <StrapType>Другой</StrapType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Другой</Brand>
   <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
-  <Brand>РАКЕТА</Brand>
-  <Title>Часы РАКЕТА «Полярные» 24 часа</Title>
-  <Description><![CDATA[<p>Новые наручные часы РАКЕТА «Полярные» 24 часа - это возможность сразу носить часы, а не разбираться с чужими следами эксплуатации: состояние новое, без потёртостей и следов носки.</p><p>Модель относится к мужским часам и построена вокруг 24-часового циферблата - название «Полярные» 24 часа прямо указывает на этот формат. Часы советской марки РАКЕТА, артикул BK-0182.</p><ul><li>Тип: наручные часы</li><li>Название: РАКЕТА «Полярные» 24 часа</li><li>Состояние: новое</li><li>Артикул: BK-0182</li><li>Категория: наручные часы, мужские часы</li></ul>]]></Description>
+  <Mechanism>Механические</Mechanism>
+  <Gender>Мужские</Gender>
+  <StrapType>Другой</StrapType>
+  <StrapColor>Чёрный</StrapColor>
+  <Title>Ракета Полярные 24 часа, чёрный циферблат</Title>
+  <Description><![CDATA[<p>Наручные часы «Ракета Полярные» с чёрным 24-часовым циферблатом. Светлые цифры и полярная разметка хорошо видны на фотографиях. Серебристый корпус и чёрный ремешок. Артикул BK-0355. Напишите в чат Авито, если нужны подробности о модели.</p>]]></Description>
   <Price>12700</Price>
   <Condition>Новое</Condition>
-  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/eb608f419fb04178.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/0126270de05d433f.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/00a9467c6e174462.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/4b4012d09074417f.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/d019d3bf98674413.jpg"/></Images>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/f589af29498a415d.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cfe2588cda614131.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/7ca43a55d9154404.webp"/></Images>
+</Ad>
+<Ad>
+  <Id>994aaa30ecb34f36</Id>
+  <DateBegin>2026-11-24T08:00:00+03:00</DateBegin>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <ProductType>Наручные или карманные</ProductType>
+  <ProductSubType>Наручные часы</ProductSubType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Другой</Brand>
+  <Color>Серебряный</Color>
+  <Mechanism>Механические</Mechanism>
+  <Gender>Мужские</Gender>
+  <StrapType>Другой</StrapType>
+  <StrapColor>Коричневый</StrapColor>
+  <Title>Ракета Big Zero, белый циферблат</Title>
+  <Description><![CDATA[<p>Часы Ракета Big Zero, новые, артикул BK-0323.</p><ul><li>Тип: наручные часы</li><li>Модель: Ракета Big Zero</li><li>Состояние: новое</li><li>Артикул: BK-0323</li><li>Категория: мужские часы</li></ul><p>Модель из категории мужских наручных часов, которую мы относим к топу мужских часов, часам месяца и часам недели. Главное здесь - аккуратный внешний вид: часы выглядят собранно и опрятно, без следов носки и без визуального шума, поэтому спокойно смотрятся и с повседневной одеждой, и с более строгим образом. Состояние новое, что подтверждает опрятную подачу без потёртостей и царапин.</p><p>Если вам важны именно аккуратный вид и узнаваемая модель, эти часы стоит посмотреть внимательнее. Артикул BK-0323 поможет быстро найти их в каталоге.</p>]]></Description>
+  <Price>12700</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/1f5f1694f5714efc.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cc5429b0e5af472c.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/ab843e5435e54258.webp"/></Images>
+</Ad>
+<Ad>
+  <Id>07efbfce11464554</Id>
+  <DateBegin>2026-11-24T08:00:00+03:00</DateBegin>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <ProductType>Наручные или карманные</ProductType>
+  <ProductSubType>Наручные часы</ProductSubType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Другой</Brand>
+  <Color>Серебряный</Color>
+  <Mechanism>Механические</Mechanism>
+  <Gender>Мужские</Gender>
+  <StrapType>Другой</StrapType>
+  <StrapColor>Чёрный</StrapColor>
+  <Title>Ракета Big Zero, чёрный циферблат</Title>
+  <Description><![CDATA[<ul><li>Новые наручные часы Ракета BIG ZERO</li><li>Мужская модель</li><li>Артикул BK-0174</li><li>Рассчитаны на повседневную носку</li></ul><p>Часы Ракета BIG ZERO - это модель из категории мужских наручных часов, которая задумана именно для каждодневного использования. Они находятся в разделе наручных часов каталога и отмечены в подборках Топ мужских часов, Часы месяца и Часы недели. Состояние - новое, артикул BK-0174. Если вы ищете одну пару часов на каждый день, без сложного выбора под разные случаи, эта модель как раз про это: надеваете утром и не думаете о них до вечера.</p><p>Посмотрите фото и уточните то, что для вас важно, - отвечу по модели.</p>]]></Description>
+  <Price>12700</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/f1dd846a2d684cbd.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/11373b5570924d4c.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/aac55f350b6f4e9a.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/a0f0ec64e036479b.webp"/></Images>
 </Ad>
 <Ad>
   <Id>b277f65456d94ea2</Id>
@@ -30,44 +76,20 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
-  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <Gender>Мужские</Gender>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Color>Серебряный</Color>
+  <Brand>Другой</Brand>
   <Mechanism>Механические</Mechanism>
   <StrapType>Кожаный</StrapType>
-  <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
-  <Brand>Другой</Brand>
   <StrapColor>Серый</StrapColor>
+  <Gender>Мужские</Gender>
   <Title>Часы Poljot International 2761.1000153</Title>
   <Description><![CDATA[<p>Наручные часы 2761.1000153 в новом состоянии, артикул BK-0131. Квадратный корпус из нержавеющей стали 38,5 x 38,5 мм, высота 10,4 мм, сапфировое стекло, серый циферблат и чёрные часовая и минутная стрелки со светомассой. Водозащита 3 atm.</p><p>⌚ Модель дополняет серый ремешок из нубука из телячьей кожи со светлой строчкой.</p><p>Особенности модели:<br/>✅ Новое состояние<br/>✅ Корпус из нержавеющей стали, квадратная форма 38,5 x 38,5 мм<br/>✅ Сапфировое стекло<br/>✅ Механизм с ручным заводом, скелетон, запас хода 36 часов<br/>✅ Малая секундная стрелка на 6 часах<br/>✅ Серый ремешок из нубука из телячьей кожи<br/>✅ Водозащита 3 atm</p><p>Напишите в чат Авито, если хотите уточнить детали.</p>]]></Description>
   <Price>59900</Price>
   <Condition>Новое</Condition>
   <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/341850eaa8d14fd9.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/0c9e106ef6ed4a2f.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/442955a312464de0.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/5bbe46d121804440.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/c4522d013c924e96.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/101a39d954f241f3.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/4ffb7e61607f48f5.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/c7b1e7182294418a.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/a7e78768d5f348d3.jpg"/></Images>
-</Ad>
-<Ad>
-  <Id>38ffd1f9d8654749</Id>
-  <ListingFee>Package</ListingFee>
-  <AdStatus>Free</AdStatus>
-  <Address>Москва, Измайловское ш., 73Жс33</Address>
-  <Category>Часы и украшения</Category>
-  <GoodsType>Часы</GoodsType>
-  <AdType>Товар приобретен на продажу</AdType>
-  <ProductType>Наручные или карманные</ProductType>
-  <ProductSubType>Наручные часы</ProductSubType>
-  <Gender>Унисекс</Gender>
-  <Mechanism>Механические</Mechanism>
-  <StrapType>Сталь</StrapType>
-  <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
-  <Brand>Восток</Brand>
-  <StrapColor>Серебряный</StrapColor>
-  <Title>Амфибия 2415.01/15085Г</Title>
-  <Description><![CDATA[<p>Хотите часы, которые выглядят аккуратно и при этом не боятся ни воды, ни активного дня? Тогда присмотритесь к Амфибии от Востока - классике, проверенной временем.</p><p>Часы новые, в отличном состоянии. Корпус из нержавеющей стали собран аккуратно: кольцо корпусное, диск времени, заводная головка и задняя крышка - всё из стали. Циферблат с хромированными индексами и шкалой для измерения пульса смотрится строго и современно, а цельнометаллический браслет шириной 22 мм из нержавеющей стали завершает образ. Такой вид уместен и с рубашкой, и с футболкой.</p><p>Внутри - механический механизм Восток 2415.01 с автоподзаводом, центральной секундной стрелкой и противоударным устройством оси баланса. Запас хода одного завода пружины - не менее 31 часа. Средний срок службы механизма - 10 лет.</p><p>Характеристики:<br/>- Водозащита: 20 атмосфер<br/>- Габариты: 41,8х46,1х15 мм<br/>- Масса: 175 г<br/>- Количество камней: 31<br/>- Калибр механизма: 24 мм<br/>- Средний суточный ход: -20…+60 секунд в сутки<br/>- Стекло: органическое<br/>- Браслет: нержавеющая сталь, ширина 22 мм</p><p>Часы подойдут тем, кто ценит механику, аккуратный внешний вид и надёжность на каждый день. Напишите, если хотите узнать больше или договориться о встрече.</p>]]></Description>
-  <Price>8040</Price>
-  <Condition>Новое</Condition>
-  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/ce2872cfb5c94ead.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/d6aa2ad7128b4fa8.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/934f369d055b49a0.jpg"/></Images>
 </Ad>
 <Ad>
   <Id>d289e37c52884bc6</Id>
@@ -76,16 +98,15 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
-  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Orient</Brand>
   <Gender>Унисекс</Gender>
   <Mechanism>Механические</Mechanism>
-  <StrapType>Другой</StrapType>
   <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
-  <Brand>Orient</Brand>
   <StrapColor>Чёрный</StrapColor>
+  <StrapType>Другой</StrapType>
   <Title>Часы Orient Diver 200 m</Title>
   <Description><![CDATA[<p>⌚ Orient Diver 200 m, артикул BK-0462. Наручные часы с контрастным безелем, светлыми метками на циферблате и окошком даты.</p><p>Особенности модели:<br/>✅ Коричневый циферблат<br/>✅ Чёрный безель с контрастной шкалой<br/>✅ Окошко даты<br/>✅ Тёмный ремешок</p><p>Если хотите узнать подробнее о часах, напишите в чат Авито. Отвечу на вопросы.</p>]]></Description>
   <Price>45700</Price>
@@ -99,19 +120,35 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
-  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <Gender>Унисекс</Gender>
-  <Mechanism>Кварцевые</Mechanism>
-  <StrapType>Другой</StrapType>
-  <Color>Серебряный</Color>
-  <CountryExpedition>Россия</CountryExpedition>
+  <AdType>Товар приобретен на продажу</AdType>
   <Brand>Orient</Brand>
   <Title>Часы Orient</Title>
   <Description><![CDATA[<p>аааа</p>]]></Description>
   <Price>22000</Price>
   <Condition>Новое</Condition>
   <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/4cc6c7e47e5c40bd.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/b139cbbd05a54aa0.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cb3034a250cf4cd8.webp"/></Images>
+</Ad>
+<Ad>
+  <Id>38ffd1f9d8654749</Id>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <ProductType>Наручные или карманные</ProductType>
+  <ProductSubType>Наручные часы</ProductSubType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <Brand>Восток</Brand>
+  <Mechanism>Механические</Mechanism>
+  <Color>Серебряный</Color>
+  <StrapType>Сталь</StrapType>
+  <StrapColor>Серебряный</StrapColor>
+  <Title>Амфибия 2415.01/15085Г</Title>
+  <Description><![CDATA[<p>Хотите часы, которые выглядят аккуратно и при этом не боятся ни воды, ни активного дня? Тогда присмотритесь к Амфибии от Востока - классике, проверенной временем.</p><p>Часы новые, в отличном состоянии. Корпус из нержавеющей стали собран аккуратно: кольцо корпусное, диск времени, заводная головка и задняя крышка - всё из стали. Циферблат с хромированными индексами и шкалой для измерения пульса смотрится строго и современно, а цельнометаллический браслет шириной 22 мм из нержавеющей стали завершает образ. Такой вид уместен и с рубашкой, и с футболкой.</p><p>Внутри - механический механизм Восток 2415.01 с автоподзаводом, центральной секундной стрелкой и противоударным устройством оси баланса. Запас хода одного завода пружины - не менее 31 часа. Средний срок службы механизма - 10 лет.</p><p>Характеристики:<br/>- Водозащита: 20 атмосфер<br/>- Габариты: 41,8х46,1х15 мм<br/>- Масса: 175 г<br/>- Количество камней: 31<br/>- Калибр механизма: 24 мм<br/>- Средний суточный ход: -20…+60 секунд в сутки<br/>- Стекло: органическое<br/>- Браслет: нержавеющая сталь, ширина 22 мм</p><p>Часы подойдут тем, кто ценит механику, аккуратный внешний вид и надёжность на каждый день. Напишите, если хотите узнать больше или договориться о встрече.</p>]]></Description>
+  <Price>8040</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/ce2872cfb5c94ead.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/d6aa2ad7128b4fa8.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/934f369d055b49a0.jpg"/></Images>
 </Ad>
 </Ads>
