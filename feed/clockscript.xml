@@ -1,6 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
 <Ad>
+  <Id>986ddfe299b4478c</Id>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Предложение услуг</Category>
+  <ServiceType>Компьютерная помощь</ServiceType>
+  <AdType>Предлагаю услугу</AdType>
+  <ServiceSubtype>ОС и программы</ServiceSubtype>
+  <Title>Консультация по верификации Claude</Title>
+  <Description><![CDATA[<p>Объясню, как пройти официальную проверку личности в вашем аккаунте Claude. Разберём, что просит форма, какие документы подходят и как подготовиться к проверке. Если форма не открывается или выдаёт ошибку, помогу понять следующий шаг и подскажу, как обратиться в официальную поддержку.</p><p>Вы входите в аккаунт и загружаете документы самостоятельно. Пароли, коды и копии документов для консультации не нужны. Решение о прохождении проверки принимает Claude. Обсудить задачу можно в чате Авито.</p>]]></Description>
+  <Price>7500</Price>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/3c8c5982e81d42b0.jpg"/></Images>
+</Ad>
+<Ad>
   <Id>36d11d7c072b4585</Id>
   <DateBegin>2026-11-24T08:00:00+03:00</DateBegin>
   <ListingFee>Package</ListingFee>
@@ -21,7 +35,7 @@
   <Description><![CDATA[<p>Наручные часы «Ракета Полярные» с чёрным 24-часовым циферблатом. Светлые цифры и полярная разметка хорошо видны на фотографиях. Серебристый корпус и чёрный ремешок. Артикул BK-0355. Напишите в чат Авито, если нужны подробности о модели.</p>]]></Description>
   <Price>12700</Price>
   <Condition>Новое</Condition>
-  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/f589af29498a415d.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cfe2588cda614131.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/7ca43a55d9154404.webp"/></Images>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/ae3a4fa195954c93.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/f589af29498a415d.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/cfe2588cda614131.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/7ca43a55d9154404.webp"/></Images>
 </Ad>
 <Ad>
   <Id>994aaa30ecb34f36</Id>
@@ -64,7 +78,7 @@
   <StrapType>Другой</StrapType>
   <StrapColor>Чёрный</StrapColor>
   <Title>Ракета Big Zero, чёрный циферблат</Title>
-  <Description><![CDATA[<ul><li>Новые наручные часы Ракета BIG ZERO</li><li>Мужская модель</li><li>Артикул BK-0174</li><li>Рассчитаны на повседневную носку</li></ul><p>Часы Ракета BIG ZERO - это модель из категории мужских наручных часов, которая задумана именно для каждодневного использования. Они находятся в разделе наручных часов каталога и отмечены в подборках Топ мужских часов, Часы месяца и Часы недели. Состояние - новое, артикул BK-0174. Если вы ищете одну пару часов на каждый день, без сложного выбора под разные случаи, эта модель как раз про это: надеваете утром и не думаете о них до вечера.</p><p>Посмотрите фото и уточните то, что для вас важно, - отвечу по модели.</p>]]></Description>
+  <Description><![CDATA[<ul><li>Новые наручные часы Ракета BIG ZERO</li><li>Мужская модель</li><li>Артикул BK-0174</li><li>Рассчитаны на повседневную носку</li></ul><p>Часы Ракета BIG ZERO - это модель из категории мужских наручных часов, которая задумана именно для каждодневного использования. Они находятся в разделе наручных часов каталога и отмечены в подборках Топ мужских часов, Часы месяца и Часы недели. Состояние - новое, артикул BK-0174. Если вы ищете одну пару часов на каждый день, без сложного выбора под разные случаи, эта модель как раз про это: надеваете утром и не думаете о них до вечера.</p><p>Посмотрите фото и уточните то, что для вас важно, - отвечу по модели.</p><p>Чёрная версия в наличии: 8 шт.</p>]]></Description>
   <Price>12700</Price>
   <Condition>Новое</Condition>
   <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/f1dd846a2d684cbd.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/11373b5570924d4c.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/aac55f350b6f4e9a.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/a0f0ec64e036479b.webp"/></Images>
