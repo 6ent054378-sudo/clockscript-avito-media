@@ -1,21 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito.ru">
 <Ad>
+  <Id>a4487ef4e5754f7e</Id>
+  <DateBegin>2026-11-24T08:00:00+03:00</DateBegin>
+  <ListingFee>Package</ListingFee>
+  <AdStatus>Free</AdStatus>
+  <Address>Москва, Измайловское ш., 73Жс33</Address>
+  <Category>Часы и украшения</Category>
+  <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
+  <ProductType>Наручные или карманные</ProductType>
+  <ProductSubType>Наручные часы</ProductSubType>
+  <Gender>Унисекс</Gender>
+  <Mechanism>Кварцевые</Mechanism>
+  <StrapType>Другой</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
+  <Brand>РАКЕТА</Brand>
+  <Title>Часы РАКЕТА «Полярные» 24 часа</Title>
+  <Description><![CDATA[<p>Новые наручные часы РАКЕТА «Полярные» 24 часа - это возможность сразу носить часы, а не разбираться с чужими следами эксплуатации: состояние новое, без потёртостей и следов носки.</p><p>Модель относится к мужским часам и построена вокруг 24-часового циферблата - название «Полярные» 24 часа прямо указывает на этот формат. Часы советской марки РАКЕТА, артикул BK-0182.</p><ul><li>Тип: наручные часы</li><li>Название: РАКЕТА «Полярные» 24 часа</li><li>Состояние: новое</li><li>Артикул: BK-0182</li><li>Категория: наручные часы, мужские часы</li></ul>]]></Description>
+  <Price>12700</Price>
+  <Condition>Новое</Condition>
+  <Images><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/eb608f419fb04178.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/0126270de05d433f.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/00a9467c6e174462.webp"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/4b4012d09074417f.jpg"/><Image url="https://raw.githubusercontent.com/6ent054378-sudo/clockscript-avito-media/main/p/d019d3bf98674413.jpg"/></Images>
+</Ad>
+<Ad>
   <Id>b277f65456d94ea2</Id>
   <ListingFee>Package</ListingFee>
   <AdStatus>Free</AdStatus>
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <AdType>Товар приобретен на продажу</AdType>
-  <Color>Серебряный</Color>
-  <Brand>Другой</Brand>
+  <Gender>Мужские</Gender>
   <Mechanism>Механические</Mechanism>
   <StrapType>Кожаный</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
+  <Brand>Другой</Brand>
   <StrapColor>Серый</StrapColor>
-  <Gender>Мужские</Gender>
   <Title>Часы Poljot International 2761.1000153</Title>
   <Description><![CDATA[<p>Наручные часы 2761.1000153 в новом состоянии, артикул BK-0131. Квадратный корпус из нержавеющей стали 38,5 x 38,5 мм, высота 10,4 мм, сапфировое стекло, серый циферблат и чёрные часовая и минутная стрелки со светомассой. Водозащита 3 atm.</p><p>⌚ Модель дополняет серый ремешок из нубука из телячьей кожи со светлой строчкой.</p><p>Особенности модели:<br/>✅ Новое состояние<br/>✅ Корпус из нержавеющей стали, квадратная форма 38,5 x 38,5 мм<br/>✅ Сапфировое стекло<br/>✅ Механизм с ручным заводом, скелетон, запас хода 36 часов<br/>✅ Малая секундная стрелка на 6 часах<br/>✅ Серый ремешок из нубука из телячьей кожи<br/>✅ Водозащита 3 atm</p><p>Напишите в чат Авито, если хотите уточнить детали.</p>]]></Description>
   <Price>59900</Price>
@@ -29,13 +53,15 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <AdType>Товар приобретен на продажу</AdType>
-  <Brand>Восток</Brand>
+  <Gender>Унисекс</Gender>
   <Mechanism>Механические</Mechanism>
-  <Color>Серебряный</Color>
   <StrapType>Сталь</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
+  <Brand>Восток</Brand>
   <StrapColor>Серебряный</StrapColor>
   <Title>Амфибия 2415.01/15085Г</Title>
   <Description><![CDATA[<p>Хотите часы, которые выглядят аккуратно и при этом не боятся ни воды, ни активного дня? Тогда присмотритесь к Амфибии от Востока - классике, проверенной временем.</p><p>Часы новые, в отличном состоянии. Корпус из нержавеющей стали собран аккуратно: кольцо корпусное, диск времени, заводная головка и задняя крышка - всё из стали. Циферблат с хромированными индексами и шкалой для измерения пульса смотрится строго и современно, а цельнометаллический браслет шириной 22 мм из нержавеющей стали завершает образ. Такой вид уместен и с рубашкой, и с футболкой.</p><p>Внутри - механический механизм Восток 2415.01 с автоподзаводом, центральной секундной стрелкой и противоударным устройством оси баланса. Запас хода одного завода пружины - не менее 31 часа. Средний срок службы механизма - 10 лет.</p><p>Характеристики:<br/>- Водозащита: 20 атмосфер<br/>- Габариты: 41,8х46,1х15 мм<br/>- Масса: 175 г<br/>- Количество камней: 31<br/>- Калибр механизма: 24 мм<br/>- Средний суточный ход: -20…+60 секунд в сутки<br/>- Стекло: органическое<br/>- Браслет: нержавеющая сталь, ширина 22 мм</p><p>Часы подойдут тем, кто ценит механику, аккуратный внешний вид и надёжность на каждый день. Напишите, если хотите узнать больше или договориться о встрече.</p>]]></Description>
@@ -50,15 +76,16 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <AdType>Товар приобретен на продажу</AdType>
-  <Brand>Orient</Brand>
   <Gender>Унисекс</Gender>
   <Mechanism>Механические</Mechanism>
-  <Color>Серебряный</Color>
-  <StrapColor>Чёрный</StrapColor>
   <StrapType>Другой</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
+  <Brand>Orient</Brand>
+  <StrapColor>Чёрный</StrapColor>
   <Title>Часы Orient Diver 200 m</Title>
   <Description><![CDATA[<p>⌚ Orient Diver 200 m, артикул BK-0462. Наручные часы с контрастным безелем, светлыми метками на циферблате и окошком даты.</p><p>Особенности модели:<br/>✅ Коричневый циферблат<br/>✅ Чёрный безель с контрастной шкалой<br/>✅ Окошко даты<br/>✅ Тёмный ремешок</p><p>Если хотите узнать подробнее о часах, напишите в чат Авито. Отвечу на вопросы.</p>]]></Description>
   <Price>45700</Price>
@@ -72,9 +99,14 @@
   <Address>Москва, Измайловское ш., 73Жс33</Address>
   <Category>Часы и украшения</Category>
   <GoodsType>Часы</GoodsType>
+  <AdType>Товар приобретен на продажу</AdType>
   <ProductType>Наручные или карманные</ProductType>
   <ProductSubType>Наручные часы</ProductSubType>
-  <AdType>Товар приобретен на продажу</AdType>
+  <Gender>Унисекс</Gender>
+  <Mechanism>Кварцевые</Mechanism>
+  <StrapType>Другой</StrapType>
+  <Color>Серебряный</Color>
+  <CountryExpedition>Россия</CountryExpedition>
   <Brand>Orient</Brand>
   <Title>Часы Orient</Title>
   <Description><![CDATA[<p>аааа</p>]]></Description>
